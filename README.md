@@ -19,3 +19,7 @@ In this course, I examined data from monthly total collisions in the United Stat
  - [National Highway Traffic Safety Administration’s website.](https://cdan.nhtsa.gov/query)
 
   - [ Pew Research Center’s website.](https://www.pewresearch.org/internet/fact-sheet/mobile/)
+
+## Results
+![Plot Showing Positive Linear Relationship](https://user-images.githubusercontent.com/130210717/232339316-9946793e-f122-454c-b27a-04ef989e924a.png)
+![Actual Crash Rate vs Predicted Crash Rate](https://user-images.githubusercontent.com/130210717/232339321-6e5bbd99-6adc-4e72-b8e3-110079d66b83.png)
